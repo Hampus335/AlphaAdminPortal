@@ -44,7 +44,7 @@ function initForms() {
 
             try {
                 const res = await fetch(form.action, {
-                    method: 'post',
+                    method: 'get',
                     body: formData
                 })
 
@@ -74,6 +74,45 @@ function initForms() {
             }
         })
     })
+}
+function initForms() {
+    const forms = document.querySelectorAll('form.edit-form'); 
+    forms.forEach(form => {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            clearFormErrorMessages(form);
+
+            const formData = new FormData(form);
+
+            try {
+                const res = await fetch(form.action, {
+                    method: 'POST', 
+                    body: formData
+                });
+
+                if (res.ok) {
+                    const modal = form.closest('.modal');
+                    if (modal) closeModal(modal);
+
+                    window.location.reload();
+                }
+                else if (res.status === 400) {
+                    const data = await res.json();
+                    if (data.errors) {
+                        addFormErrorMessages(data.errors, form);
+                    }
+                }
+                else {
+                    alert('Unable to save project');
+                }
+
+            } catch (error) {
+                console.error('Error saving project:', error);
+                alert('An unexpected error occurred.');
+            }
+        });
+    });
 }
 
 
@@ -110,7 +149,7 @@ function initCloseButtons() {
 }
 
 function closeModal(modal) {
-    if (modal) {
+    if (modal) {    
         modal.classList.remove('flex')
 
         modal.querySelectorAll('form').forEach(form => {

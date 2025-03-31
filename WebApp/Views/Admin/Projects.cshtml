@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<ProjectDTO>
+
+@{
     ViewData["Title"] = "Projects";
 }
 
@@ -11,9 +13,74 @@
     <main class="content">
         <div class="surface">
 
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Created At</th>
+                        <th>Budget</th>
+                        <th>Members</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var project in Model)
+                    {
+                        <tr>
+                            <td>@project.Name</td>
+                            <td>@project.Description</td>
+                            <td>@project.StartDate</td>
+                            <td>@project.Budget</td>
+                            <td>@project.ClientName</td>
+                            <td>
+                                <div class="actions-container">
+                                    <button class="actions-button" onclick="toggleMenu('@project.Id')">Actions</button>
+                                    <div id="actions-menu-@project.Id" class="actions-menu">
+                                        <a href="@Url.Action("Edit", new { id = project.Id })" class="dropdown-item">Edit</a>
+                                        <a href="#" class="dropdown-item" data-modal="true" data-target="#addClientModal" data-bs-target="#addClientModal">Add Member</a>
+                                        <form asp-action="Delete" asp-route-id="@project.Id" method="post" onsubmit="return confirm('Are you sure?');">
+                                            <button type="submit" class="dropdown-item text-danger">Delete</button> 
+                                        </form>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
         </div>
     </main>
 
 </section>
 
-<partial name="Partials/Modals/_AddProjectModal" />
+<partial name="Partials/Modals/_AddProjectModal" model="@new Business.Models.AddProjectForm()" />
+<partial name="Partials/Modals/_AddClientModal" model="@new Business.Models.AddClientForm()" />
+
+<script>
+    function toggleMenu(projectId) {
+        var menu = document.getElementById('actions-menu-' + projectId);
+
+        var menus = document.querySelectorAll('.actions-menu');
+        menus.forEach(function(m) {
+            if (m !== menu) {
+                m.style.display = 'none';
+            }
+        });
+
+        if (menu.style.display === 'block') {
+            menu.style.display = 'none';
+        } else {
+            menu.style.display = 'block';
+        }
+    }
+
+    window.addEventListener('click', function(event) {
+        if (!event.target.closest('.actions-container')) {
+            var menus = document.querySelectorAll('.actions-menu');
+            menus.forEach(function(menu) {
+                menu.style.display = 'none';
+            });
+        }
+    });
+</script>

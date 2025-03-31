@@ -3,11 +3,14 @@ using Data.Contexts;
 using Data.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("LocalDB")));
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<ProjectRepository>();
+builder.Services.AddScoped<ProjectService>();
 
 builder.Services.AddIdentity<AppUserEntity, IdentityRole>(x => 
     {

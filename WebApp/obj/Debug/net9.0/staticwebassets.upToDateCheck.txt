@@ -1,9 +1,9 @@
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\favicon.ico
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\js\site.js
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\images\avatars\avatar-template.svg
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\css\site.css
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\images\alpha-logotype-icon.svg
-C:\Users\hampu\Source\Repos\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\js\validate.js
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\favicon.ico
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\js\site.js
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\images\avatars\avatar-template.svg
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\css\site.css
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\images\alpha-logotype-icon.svg
+C:\Users\hampu\OneDrive\Dokument\GitHub\asp11\identity\AlphaAdminPortal\WebApp\wwwroot\js\validate.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\alpha-logotype-icon.svg

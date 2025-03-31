@@ -534,3 +534,39 @@ section > .content {
         width: 30%;
     }
 }
+
+.actions-container {
+    position: relative; /* Behövs för att placera menyn korrekt */
+}
+
+.actions-button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Grön färg för knappen */
+    color: white; /* Vit text */
+    border: none; /* Ingen kantlinje */
+    cursor: pointer; /* Pekare när man håller muspekaren över knappen */
+    font-size: 16px; /* Storleken på texten */
+}
+
+.actions-menu {
+    display: none; /* Döljer menyn initialt */
+    position: absolute;
+    top: 100%; /* Placera menyn direkt under knappen */
+    right: 0; /* Placera menyn till höger */
+    background-color: white;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Lägger till skugga för att göra menyn mer synlig */
+    z-index: 1; /* Ser till att menyn visas ovanpå andra element */
+}
+
+    .actions-menu button {
+        padding: 12px 16px; /* Avstånd för varje knapp */
+        background-color: #f1f1f1; /* Grå bakgrund på alternativen */
+        border: none; /* Ingen kantlinje */
+        text-align: left; /* Texten justeras till vänster */
+        width: 100%; /* Gör knapparna lika breda som menyn */
+        cursor: pointer; /* Pekare när muspekaren är över knappen */
+    }
+
+        .actions-menu button:hover {
+            background-color: #ddd; /* Ändrar bakgrundsfärgen när man hovrar över knappen */
+        }

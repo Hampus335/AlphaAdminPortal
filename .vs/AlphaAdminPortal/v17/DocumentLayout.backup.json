@@ -1,70 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\data\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|solutionrelative:data\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|solutionrelative:data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\data\\entities\\appuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4A516A-74A0-402A-B932-AA90C1D15CA9}|Data\\Data.csproj|solutionrelative:data\\entities\\appuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\onedrive\\dokument\\github\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\views\\shared\\partials\\modals\\_addprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\modals\\_addprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\views\\shared\\partials\\modals\\_addclientmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\modals\\_addclientmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\views\\admin\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\views\\shared\\partials\\components\\_navlinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\components\\_navlinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\business\\models\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|solutionrelative:business\\models\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\business\\models\\addprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|solutionrelative:business\\models\\addprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|c:\\users\\hampu\\source\\repos\\asp11\\identity\\alphaadminportal\\business\\models\\addclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085F4A96-7042-4673-8774-9C6B60D5528F}|Business\\Business.csproj|solutionrelative:business\\models\\addclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,196 +26,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\ProjectEntity.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\ProjectEntity.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\ProjectEntity.cs",
-              "RelativeToolTip": "Data\\Entities\\ProjectEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:45:33.881Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\ClientEntity.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\ClientEntity.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\ClientEntity.cs",
-              "RelativeToolTip": "Data\\Entities\\ClientEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:44:56.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\AppUserEntity.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\AppUserEntity.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Data\\Entities\\AppUserEntity.cs",
-              "RelativeToolTip": "Data\\Entities\\AppUserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:42:50.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAN0BAAAAAAAAAAASwPIBAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-21T10:13:09.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA1wEMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:13:08.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_AddClientModal.cshtml",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddClientModal.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddClientModal.cshtml",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddClientModal.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddClientModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T10:10:53.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:09:48.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SignInForm.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\SignInForm.cs",
-              "RelativeDocumentMoniker": "Business\\Models\\SignInForm.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\SignInForm.cs",
-              "RelativeToolTip": "Business\\Models\\SignInForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:03:13.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_NavLinks.cshtml",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Components\\_NavLinks.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Components\\_NavLinks.cshtml",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Components\\_NavLinks.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Components\\_NavLinks.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T09:52:48.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_AddProjectModal.cshtml",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T09:41:54.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Admin\\Projects.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Projects.cshtml",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Admin\\Projects.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Projects.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T09:41:08.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Clients.cshtml",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Admin\\Clients.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Clients.cshtml",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Views\\Admin\\Clients.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Clients.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T09:34:07.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AddProjectForm.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\AddProjectForm.cs",
-              "RelativeDocumentMoniker": "Business\\Models\\AddProjectForm.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\AddProjectForm.cs",
-              "RelativeToolTip": "Business\\Models\\AddProjectForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:34:03.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddClientForm.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\AddClientForm.cs",
-              "RelativeDocumentMoniker": "Business\\Models\\AddClientForm.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\Business\\Models\\AddClientForm.cs",
-              "RelativeToolTip": "Business\\Models\\AddClientForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:34:01.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:32:30.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\hampu\\source\\repos\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:33:10.634Z"
+              "WhenOpened": "2025-03-31T09:36:54.767Z",
+              "EditorCaption": ""
             }
           ]
         }

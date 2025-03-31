@@ -20,6 +20,6 @@ public class ClientsController : Controller
             return BadRequest(new { errors });
         }
 
-        return Ok();
+        return RedirectToAction("Clients", "Admin");
     }
 }
