@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uN31oFcoKsLhCRwHurFzAihuOcpHBCBTakZFB8WkrEA=",
+  "Hash": "QnCcdH7+lvgXCZF95Qz8+RNGXxAsL/YJS97vAbZm4PU=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApp\\wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "lir1p715ud",
       "Integrity": "jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site#[.{fingerprint=s0ld2lwitn}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "y6xwystzze",
       "Integrity": "ClI7gI9CQgsbSns9eiuthZH4TbSne/BGP9rrz6vhAVg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/avatar-template#[.{fingerprint=gt4kjeqp0f}]?.svg.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "31ie6tjrms",
       "Integrity": "x5xd1qvRaQwsiC0nCcTHEC5y+iBi6+R4VsvKOAkzBtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site#[.{fingerprint=20x637l7p3}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "y71k92xozp",
       "Integrity": "0rvnmT2ZlmizFqk2iPuco/6AhBIGwaq9KWypbofNVFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/alpha-logotype-icon#[.{fingerprint=485lvxxp9r}]?.svg.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "w58v6e36r6",
       "Integrity": "FKlKDDyqlj0qnWwj14QFsI/SLN8mJ/cswpMFHfB5xr8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/validate#[.{fingerprint=3r8b2a0bt1}]?.js.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "7t0uxwsjr0",
       "Integrity": "Zd+4tKe+YyWXvSCQtbmshsT5I0pKoALzyCu8fniaMWo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp#[.{fingerprint=93ijdg4wd4}]?.styles.css.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "doi8fky5v1",
       "Integrity": "ja/FJbxI5EhbyDIhGKKtsTZ/kCnPL+Cp/vlY3nl4x9I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp#[.{fingerprint=93ijdg4wd4}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "doi8fky5v1",
       "Integrity": "ja/FJbxI5EhbyDIhGKKtsTZ/kCnPL+Cp/vlY3nl4x9I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -203,13 +203,13 @@
       "Integrity": "q3CZ4ep/nleccvttHxg5WHkStL4ANbhvU1fbiJ6Mniw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "q3CZ4ep/nleccvttHxg5WHkStL4ANbhvU1fbiJ6Mniw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/alpha-logotype-icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\alpha-logotype-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/avatar-template#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\avatar-template.svg"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js",
+      "Identity": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -356,7 +356,7 @@
   "Endpoints": [
     {
       "Route": "css/site.20x637l7p3.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -379,7 +379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -419,7 +419,7 @@
     },
     {
       "Route": "css/site.20x637l7p3.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -440,7 +440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -464,7 +464,7 @@
     },
     {
       "Route": "css/site.20x637l7p3.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -485,7 +485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -517,7 +517,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -572,7 +572,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -593,7 +593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -609,7 +609,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-20x637l7p3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -630,7 +630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:23:27 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -654,7 +654,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -677,7 +677,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -717,7 +717,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -738,7 +738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -762,7 +762,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -815,7 +815,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -838,7 +838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -870,7 +870,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -891,7 +891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -907,7 +907,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -928,7 +928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -952,7 +952,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.485lvxxp9r.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -975,7 +975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1015,7 +1015,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.485lvxxp9r.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +1036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1060,7 +1060,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.485lvxxp9r.svg.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1081,7 +1081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1113,7 +1113,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1136,7 +1136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1168,7 +1168,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1189,7 +1189,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1205,7 +1205,7 @@
     },
     {
       "Route": "images/alpha-logotype-icon.svg.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\n5fu54hth2-485lvxxp9r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1226,7 +1226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1250,7 +1250,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.gt4kjeqp0f.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1273,7 +1273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1313,7 +1313,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.gt4kjeqp0f.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1334,7 +1334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1358,7 +1358,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.gt4kjeqp0f.svg.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1379,7 +1379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1411,7 +1411,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1434,7 +1434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1466,7 +1466,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.svg",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1487,7 +1487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1503,7 +1503,7 @@
     },
     {
       "Route": "images/avatars/avatar-template.svg.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\b4b5dbzdds-gt4kjeqp0f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1524,7 +1524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1548,7 +1548,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1571,7 +1571,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1603,7 +1603,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,7 +1624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1640,7 +1640,7 @@
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1661,7 +1661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1685,7 +1685,7 @@
     },
     {
       "Route": "js/site.s0ld2lwitn.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1708,7 +1708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1748,7 +1748,7 @@
     },
     {
       "Route": "js/site.s0ld2lwitn.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1769,7 +1769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1793,7 +1793,7 @@
     },
     {
       "Route": "js/site.s0ld2lwitn.js.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-s0ld2lwitn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1814,7 +1814,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:49:26 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1846,7 +1846,7 @@
     },
     {
       "Route": "js/validate.3r8b2a0bt1.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1869,7 +1869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1909,7 +1909,7 @@
     },
     {
       "Route": "js/validate.3r8b2a0bt1.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1930,7 +1930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1954,7 +1954,7 @@
     },
     {
       "Route": "js/validate.3r8b2a0bt1.js.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1975,7 +1975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2007,7 +2007,7 @@
     },
     {
       "Route": "js/validate.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2030,7 +2030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2062,7 +2062,7 @@
     },
     {
       "Route": "js/validate.js",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2099,7 +2099,7 @@
     },
     {
       "Route": "js/validate.js.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-3r8b2a0bt1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2144,7 +2144,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2167,7 +2167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2207,7 +2207,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2228,7 +2228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2252,7 +2252,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2273,7 +2273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2305,7 +2305,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.styles.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2328,7 +2328,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2368,7 +2368,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.styles.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2389,7 +2389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2413,7 +2413,7 @@
     },
     {
       "Route": "WebApp.93ijdg4wd4.styles.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2434,7 +2434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2466,7 +2466,7 @@
     },
     {
       "Route": "WebApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2489,7 +2489,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2521,7 +2521,7 @@
     },
     {
       "Route": "WebApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2542,7 +2542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2558,7 +2558,7 @@
     },
     {
       "Route": "WebApp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\woqmgvgciv-93ijdg4wd4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2579,7 +2579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2603,7 +2603,7 @@
     },
     {
       "Route": "WebApp.styles.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2626,7 +2626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2658,7 @@
     },
     {
       "Route": "WebApp.styles.css",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2679,7 +2679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2695,7 +2695,7 @@
     },
     {
       "Route": "WebApp.styles.css.gz",
-      "AssetFile": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
+      "AssetFile": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\compressed\\tya4lddc6q-93ijdg4wd4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2716,7 +2716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 12:43:44 GMT"
+          "Value": "Fri, 11 Apr 2025 09:56:52 GMT"
         },
         {
           "Name": "Cache-Control",

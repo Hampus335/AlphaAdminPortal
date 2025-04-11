@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApp.93ijdg4wd4.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\alpha-logotype-icon.svg",
       "PackagePath": "staticwebassets\\images\\alpha-logotype-icon.svg"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\images\\avatars\\avatar-template.svg",
       "PackagePath": "staticwebassets\\images\\avatars\\avatar-template.svg"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\wwwroot\\js\\validate.js",
+      "Id": "C:\\Users\\hampu\\Source\\Repos\\AlphaAdminPortalhmm\\WebApp\\wwwroot\\js\\validate.js",
       "PackagePath": "staticwebassets\\js\\validate.js"
     },
     {

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\hampu\\source\\repos\\AlphaAdminPortalhmm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\onedrive\\dokument\\github\\asp11\\identity\\alphaadminportal\\webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\alphaadminportalhmm\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|c:\\users\\hampu\\source\\repos\\alphaadminportalhmm\\webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F12DA38E-4889-4459-877C-88E596D15302}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
@@ -27,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\AlphaAdminPortalhmm\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\hampu\\source\\repos\\AlphaAdminPortalhmm\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T09:57:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\hampu\\source\\repos\\AlphaAdminPortalhmm\\WebApp\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\hampu\\OneDrive\\Dokument\\GitHub\\asp11\\identity\\AlphaAdminPortal\\WebApp\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\hampu\\source\\repos\\AlphaAdminPortalhmm\\WebApp\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\ProjectsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
